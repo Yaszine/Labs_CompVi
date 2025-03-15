@@ -1,14 +1,12 @@
-Computer Vision Labs Portfolio
+**Computer Vision Labs Portfolio**
 
-Overview
+**Overview**
 
 This portfolio showcases my expertise in computer vision through various hands-on labs implementing state-of-the-art deep learning techniques. The projects explore different self-supervised learning methods, transformer-based architectures, and advanced feature extraction techniques. Below is an overview of the key concepts covered, along with references to well-known papers or authors that have contributed to these fields.
 
-Labs and Mastered Techniques
+Labs and Mastered Techniques:
 
-1. Masked Autoencoders (MAE)
-
-Lab: Lab_RL_MAE_Yassine_Ben...
+**1. Masked Autoencoders (MAE)**
 
 Mastery:
 
@@ -22,9 +20,8 @@ Reference:
 
 Kaiming He et al., "Masked Autoencoders Are Scalable Vision Learners," NeurIPS 2021. [Paper]
 
-2. Vision Transformers (ViT)
+**2. Vision Transformers (ViT)**
 
-Lab: Lab_RL_ViT_Yassine_Ben...
 
 Mastery:
 
@@ -38,9 +35,9 @@ Reference:
 
 Alexey Dosovitskiy et al., "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale," ICLR 2021. [Paper]
 
-3. Variational Autoencoders (VAE)
+**3. Variational Autoencoders (VAE)**
 
-Lab: Lab_RL_VAE_Yassine_Ben...
+
 
 Mastery:
 
@@ -54,9 +51,9 @@ Reference:
 
 Kingma, Diederik P., and Max Welling. "Auto-Encoding Variational Bayes." ICLR 2014. [Paper]
 
-4. Self-Supervised Learning (SSL) – Contrastive Learning
+**4. Self-Supervised Learning (SSL) – Contrastive Learning**
 
-Lab: SelfSupervised_Contrastive...
+
 
 Mastery:
 
@@ -70,9 +67,8 @@ Reference:
 
 Ting Chen et al., "A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)," ICML 2020. [Paper]
 
-5. Self-Supervised Learning (SSL) – Rotation Prediction
+**5. Self-Supervised Learning (SSL) – Rotation Prediction**
 
-Lab: SelfSupervised_Rotation...
 
 Mastery:
 
@@ -86,9 +82,9 @@ Reference:
 
 Spyros Gidaris, Praveer Singh, Nikos Komodakis, "Unsupervised Representation Learning by Predicting Image Rotations," ICLR 2018. [Paper]
 
-Conclusion
+
+**Conclusion**
 
 Through these labs, I have gained practical experience in self-supervised learning, transformer-based architectures, and generative modeling techniques. This portfolio serves as a demonstration of my ability to implement, analyze, and evaluate cutting-edge deep learning models in computer vision.
 
-For any inquiries or collaborations, feel free to reach out!
 
